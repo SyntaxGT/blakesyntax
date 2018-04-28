@@ -1,2 +1,0 @@
-# blakesyntax
-my website
